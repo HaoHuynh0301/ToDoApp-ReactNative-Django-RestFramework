@@ -15,8 +15,6 @@ downloads/
 eggs/
 .eggs/
 node_modules/
-android/
-ios/
 lib/
 lib64/
 parts/
